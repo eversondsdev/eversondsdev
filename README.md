@@ -1,16 +1,31 @@
-### Hi there 👋
+# Olá! Eu sou o Everson Daniel 👋🏽
+<br>
 
-<!--
-**eversondsdev/eversondsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ### **“Sucesso é o acúmulo de pequenos esforços repedidos dia a dia!”** ROBERT, COLLIER.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eversondsdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eversondanieldev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eversondaniel_/)
+[![Gmail](https://img.shields.io/badge/gmail-c72926?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eversondaniel98@gmail.com)
+
+
+
+## Habilidades
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJs](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e5532c?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264CE4?style=for-the-badge&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/git-f05539?style=for-the-badge&logo=git&logoColor=white)
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eversondsdev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF&hide=stars)
+
+## Minhas Contribuicões
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=eversondsdev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/Everson-DS/dio-lab-open-source)
