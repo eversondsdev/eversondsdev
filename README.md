@@ -16,7 +16,6 @@
 ## Habilidades
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJs](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-e5532c?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264CE4?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-f05539?style=for-the-badge&logo=git&logoColor=white)
